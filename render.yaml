@@ -1,0 +1,5 @@
+envVarGroups:
+  - name: grow3553-alpha
+    envVars:
+      - key: A
+        value: "1"
