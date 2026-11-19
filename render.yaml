@@ -2,4 +2,4 @@ envVarGroups:
   - name: grow3553-alpha
     envVars:
       - key: A
-        va
+        value: "1"
